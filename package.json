@@ -1,0 +1,15 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "testing an express server",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"node app.js" 
+  },
+  "author": "Godwin Agedah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
